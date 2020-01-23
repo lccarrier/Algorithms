@@ -2,9 +2,6 @@
 
 import math
 
-def recipe_batches(recipe, ingredients):
-  pass 
-
 
 def recipe_batches(recipe, ingredients):
     lowest_ratio = math.inf
